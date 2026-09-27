@@ -1,5 +1,5 @@
 ---
-name: Edit Existing
+name: Edit existing
 about: Edit an existing Startpage
 title: ''
 labels: 'edit'
