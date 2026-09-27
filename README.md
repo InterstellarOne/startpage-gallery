@@ -6,8 +6,6 @@ Shortlink: https://spoo.me/startpagegallery
 \
 ![](https://raw.githubusercontent.com/InterstellarOne/startpage-gallery/refs/heads/master/public/gallery-cover.png)
 
-[<img src="public/support_me_on_kofi_blue.png" width="200">](https://ko-fi.com/interstellarone)
-
 ## How to contribute
 
 ### Submitting a new startpage
