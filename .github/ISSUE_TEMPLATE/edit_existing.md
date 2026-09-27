@@ -1,5 +1,6 @@
 ---
-name: Edit an existing Startpage
+name: Edit Existing
+about: Edit an existing Startpage
 title: ''
 labels: 'edit'
 assignees: ''
@@ -10,7 +11,7 @@ assignees: ''
 The name of the startpage you want to edit.
 
 **What do you want to change?**
-An explanation of what needs changing. Please justify your reasoning for why this change is necessary.
+An explanation of what needs changing. Please justify your reasoning for why this change is beneficial.
 
 **Affiliation**
 Changes to existing startpages are allowed only if you originally submitted the startpage, or if you are affiliated with the startpage. Please share proof of one of these.
