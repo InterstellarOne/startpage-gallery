@@ -26,17 +26,18 @@
 
 @media (prefers-color-scheme: dark) {
 :root {
-    --bg-primary: #010409 !important;
+    --bg-primary: #121314 !important;
     --icon-text-primary: #ffffff;
     --text-secondary: #e2e3ec;
     --text-tertiary: #a2a2a2;
-    --bg-header: rgb(85, 85, 90);
+    
+    --bg-header: rgb(74, 74, 78);
     --bg-header-button: #28282a;
 
     --bg-search-button: #28282a;
     --border-search-button:#4e4f53;
 
-    --tag: #424247;
+    --tag: #49494e;
     --bg-search: #3c3d40;
     --border-search: #5d5e63;
     --search-icon: #cacaca;

@@ -3,10 +3,10 @@ A static community gallery showcasing startpages (New Tab pages) from across the
 
 ### To Do:
 
-- [ ] Add colorschemes
+- [x] Add colorschemes
 - [ ] Style blink scrollbars
 - [x] Make tag div collapsible
 - [x] Fix mobile layout
 - [ ] Write better README
-- [ ] Add Kofi
+- [x] Add Kofi
 - [ ] Write comments for search algorithm

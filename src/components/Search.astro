@@ -56,7 +56,7 @@ const uniqueTags = Array.from(new Set(tags));
         checked="true"
       />
     </div>
-    <div id="tag-list">
+    <div id="tag-list" class="classic-scroll">
       {uniqueTags.map((uniqueTags) => <span class="tag">{uniqueTags}</span>)}
     </div>
   </div>

@@ -10,7 +10,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-#header-title-container img {
+#header-title-container img, #header-link-ko-fi svg {
     filter: invert(1);
 }
 }
