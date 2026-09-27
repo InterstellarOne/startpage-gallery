@@ -35,7 +35,7 @@ Please submit enhancements and bugs to the issues tag! I will do my best with my
 - Thank you to [this course](https://webdevsimplified.github.io/fem-getting-started-with-javascript/) for teaching me basic JavaScript.
 
 ## AI Usage Disclosure
-I used Gemini as a source of information for this project, mainly when working with Astro, as I found the Astro documentation to be missing some information that I needed. I did my best to use Startpage/Stack Overflow when possible so I was not reliant on Gemini when creating the website. I have a background in C, so while I am new to JavaScript most of the syntax is the same, so programming the backend wasn't too much of a struggle.
+I used Gemini as a source of information for this project, mainly when working with Astro, as I found the Astro documentation to be missing some information that I needed. I did my best to use Startpage/Stack Overflow when possible when searching for information so I was not reliant on Gemini when creating the website. I have a background in C, so while I am new to JavaScript, most of the syntax is the same so programming the backend was fairly straightforward.
 
 ## To Do:
 - [ ] Style blink scrollbars
