@@ -28,7 +28,7 @@ The data for each startpage is stored in json files in [src/content/startpages/]
 ### Feature requests / Bugs
 Please submit enhancements and bugs to the issues tag! I will do my best with my limited time to respond and add things that will improve the site. This is my first time making a website, so while the code is all mine, it may be very messy.
 
-## Credits:
+## Credits
 - Icons courtesy of [Lucide](https://lucide.dev/), [Tabler Icons](https://tabler.io/icons), [Font Awesome](https://fontawesome.com/), and [Simple Icons](https://simpleicons.org/)
 - Site built using [Astro](https://astro.build/)
 - Inspired by https://firefoxcss-store.github.io/
