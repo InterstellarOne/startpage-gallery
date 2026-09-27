@@ -3,8 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
-    <link rel="icon" href="./favicon.ico" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="./favicon.svg"
+      media="(prefers-color-scheme: light)"
+    />
+    <link
+      rel="icon"
+      href="./favicon.ico"
+      media="(prefers-color-scheme: light)"
+    />
+
     <meta name="generator" content={Astro.generator} />
     <title>Startpage Gallery</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -27,6 +37,7 @@
 </style>
 
 <style>
+  @import url(../styles/colors.css);
   html,
   body {
     font-family: "Quicksand", sans-serif;
@@ -34,7 +45,7 @@
     font-weight: 500;
     font-style: normal;
     font-variation-settings: "wdth" 100;
-    background-color: #efefef;
+    background-color: var(--bg-primary);
     margin: 0 auto;
     padding: 0;
     width: 100%;
