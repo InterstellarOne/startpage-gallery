@@ -16,13 +16,12 @@ Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-g
 - Make sure the image you upload is 16:10 and large enough to look decent at the scale of the card.
 - You can upload edited images, but they must showcase an actual screenshot of the project.
 - Github will allow you to upload multiple images, but please only upload one. If you do upload multiple, only the first one uploaded will actually be added to the repository, and the rest won't be easily accessible.
-- You may only add up to eight tags.
 - When adding tags, please use existing ones when possible (e.g. use "Clock" instead of "Time") and only add new ones when the existing ones do not cover what you wish to describe.
 
 ### Editing an existing startpage
 To edit an existing startpage, you must be either the person who originally submitted the startpage, or if you are affiliated with the startpage. To submit an edit request, there are two possible methods.
 1. **Pull Request** - If you are comfortable creating a pull request, you may do so. Please provide a description of what you changed, and justify why you think the change is beneficial.
-The data for each startpage is stored in json files in [src/content/startpages/](https://github.com/InterstellarOne/startpage-gallery/tree/master/src/content/startpages), and screenshots are stored in [public/screenshots/](https://github.com/InterstellarOne/startpage-gallery/tree/master/public/screenshots). If you replace the image, please keep the filename the same.
+The data for each startpage is stored in json files in [src/content/startpages/](https://github.com/InterstellarOne/startpage-gallery/tree/master/src/content/startpages), and screenshots are stored in [public/screenshots/](https://github.com/InterstellarOne/startpage-gallery/tree/master/public/screenshots). If you replace the image, please keep the filename the same. Remember that you can have a maximum of eight tags.
 2. **Edit Issue** - Create a new [Edit existing issue](https://github.com/InterstellarOne/startpage-gallery/issues/new?template=edit_existing.md) and follow the instructions there.
 
 ### Feature requests / Bugs
