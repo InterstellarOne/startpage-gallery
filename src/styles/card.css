@@ -17,6 +17,15 @@
 }
 }
 
+@media (prefers-color-scheme: dark) {
+  .icon-link img {
+    filter: invert(0.9) !important;
+  }
+}
+.website img {
+  transform: scale(1.15);
+}
+
 .icon-links {
   display: flex;
   justify-content: center;
