@@ -1,6 +1,6 @@
 {
   "title": "re-start",
-  "description": "a tui-style browser startpage, built with svelte.",
+  "description": "a tui-style browser startpage, built with svelte. features include: a task list with multiple backend options, a weather summary, quicklinks, stats (load time, ping, fps, viewport size), color themes, and custom css support.",
   "image": {
     "src": "screenshots/restart1792.png"
   },
