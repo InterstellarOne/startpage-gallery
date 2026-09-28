@@ -133,7 +133,7 @@
 #collapse-btn {
     position: absolute;
     left: 50%;
-    bottom: -10px;
+    bottom: -11px;
     width: 42px;
     height: 24px;
     background: var(--bg-search-button);
