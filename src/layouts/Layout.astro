@@ -20,7 +20,11 @@
       href={`${import.meta.env.BASE_URL}favicon-dark.svg`}
       media="(prefers-color-scheme: dark)"
     />
-
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content="Startpage Gallery" />
+    <meta property="og:description" content="A place to discover and share browser startpages." />
+    <meta name="theme-color" content="#3584e4">
     <meta name="generator" content={Astro.generator} />
     <title>Startpage Gallery</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
