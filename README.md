@@ -14,6 +14,7 @@ Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-g
 
 **Things to keep in mind:**
 - Make sure the image you upload is 16:10 and large enough to look decent at the scale of the card.
+- Only .png, .jpg, and .jpeg are accepted file formats. 
 - You can upload edited images, but they must showcase an actual screenshot of the project.
 - Github will allow you to upload multiple images, but please only upload one. If you do upload multiple, only the first one uploaded will actually be added to the repository, and the rest won't be easily accessible.
 - When adding tags, please use existing ones when possible (e.g. use "Clock" instead of "Time") and only add new ones when the existing ones do not cover what you wish to describe.
