@@ -1,0 +1,25 @@
+{
+  "title": "TablissNG",
+  "description": "Transform your new tab page into something beautiful and uniquely yours. Choose from many background providers, and be rewarded with stunning, new pictures every time you open a new tab, and add your favourite widgets to stay productive throughout your day.",
+  "image": {
+    "src": "screenshots/tablissng1356.png"
+  },
+  "tags": [
+    "Minimalist",
+    "Widgets",
+    "Random Wallpapers",
+    "Customizable",
+    "Custom CSS",
+    "Custom HTML",
+    "Wallpaper",
+    "Literature Clock"
+  ],
+  "dateAdded": 1790880901394,
+  "proprietary": false,
+  "dateUpdated": 1790438664000,
+  "gitLink": "https://github.com/BookCatKid/TablissNG",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/tablissng/",
+  "chromeLink": "https://chromewebstore.google.com/detail/tablissng/dlaogejjiafeobgofajdlkkhjlignalk",
+  "websiteLink": "https://tablissng.smrff.dev/",
+  "stars": 437
+}
