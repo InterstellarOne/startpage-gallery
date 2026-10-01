@@ -26,7 +26,7 @@ The data for each startpage is stored in json files in [src/content/startpages/]
 2. **Edit Issue** - Create a new [Edit existing issue](https://github.com/InterstellarOne/startpage-gallery/issues/new?template=edit_existing.md) and follow the instructions there.
 
 ### Feature requests / Bugs
-Please submit enhancements and bugs to the issues tag! I will do my best with my limited time to respond and add things that will improve the site. This is my first time making a website, so while the code is all mine, it may be very messy.
+Please submit enhancements and bugs to the issues tag! I will do my best with my limited time to respond and add things that will improve the site. This is my first time making a website, so while the code is all mine, it may be messy.
 
 ## Credits
 - Icons courtesy of [Lucide](https://lucide.dev/), [Tabler Icons](https://tabler.io/icons), [Font Awesome](https://fontawesome.com/), and [Simple Icons](https://simpleicons.org/)
