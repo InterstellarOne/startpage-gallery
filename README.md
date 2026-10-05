@@ -39,6 +39,6 @@ I used Gemini as a source of information for this project, mainly when working w
 
 ## To Do:
 - [ ] Style blink scrollbars
-- [x] Write better README
+- [ ] Add sort by browser to searchbar
 - [ ] Write comments for search algorithm
 - [ ] Fix favicon
