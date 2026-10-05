@@ -102,7 +102,7 @@ if (parsedData["Source (Github, Codeberg, or other)"].includes("https://")) {
     parsedData["Source (Github, Codeberg, or other)"].includes("https://codeberg.org/") || 
     parsedData["Source (Github, Codeberg, or other)"].includes("https://gitlab.com/")) {
         gitLink = parsedData["Source (Github, Codeberg, or other)"];
-        if (gitLink.endsWith(".git")) gitLink.slice(0, -4);
+        if (gitLink.endsWith(".git")) gitLink = gitLink.slice(0, -4);
     } else {
         console.log("Unknown source website. Fields may need to be populated manually, or this website may be added to the API script.");
     }
