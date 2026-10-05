@@ -1,0 +1,22 @@
+{
+  "title": "tilde",
+  "description": "Tilde is a minimal browser homepage for pro web surfers. Navigate saved webpages, visit a website directly, and search the web all without taking your hands off the keyboard.",
+  "image": {
+    "src": "screenshots/tilde5641.png"
+  },
+  "tags": [
+    "Clock",
+    "KeyboardBased",
+    "Bookmarks",
+    "Lightweight",
+    "Minimal",
+    "Static",
+    "Search"
+  ],
+  "dateAdded": 1791208887725,
+  "proprietary": false,
+  "dateUpdated": 1790985921000,
+  "gitLink": "https://github.com/xvvvyz/tilde",
+  "websiteLink": "https://tilde.xvyz.co/",
+  "stars": 872
+}
