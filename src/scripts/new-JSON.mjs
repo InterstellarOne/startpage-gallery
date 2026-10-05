@@ -126,6 +126,14 @@ if (parsedData["Chrome Web Store"].includes("https://chromewebstore.google.com/d
     console.log("Chrome link invalid or not submitted.");
 }
 
+let edgeLink;
+if (parsedData["Microsoft Edge Add-ons"].includes("https://microsoftedge.microsoft.com/addons/detail/")) {
+    const url = new URL(parsedData["Microsoft Edge Add-ons"]);
+    edgeLink = url.origin + url.pathname;
+} else {
+    console.log("Edge link invalid or not submitted.");
+}
+
 let safariLink;
 if (parsedData["App Store (Safari)"].includes("https://apps.apple.com/")) {
     const url = new URL(parsedData["App Store (Safari)"]);
@@ -168,6 +176,10 @@ async function getREST(url, platform) {
             case "firefox": 
                 stars = null;
                 lastUpdated = Date.parse(data.last_updated);
+                break;
+            case "edge":
+                stars = null;
+                lastUpdated = Date.parse(data.lastUpdateDate);
                 break;
             case "safari":
                 stars = null;
@@ -281,7 +293,18 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     ).href;
     data = await getREST(endpoint, "safari");
     if (data) {dateUpdated = data;}
-
+} else if (edgeLink) {
+            const url = new URL(edgeLink);
+    const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;
+    const segments = pathname.split("/")
+    const urlPath = segments[segments.length - 1];
+    urlPart = "addons/detail/" + urlPath;
+    endpoint = new URL(
+        urlPart,
+        "https://microsoftedge.microsoft.com/"
+    ).href;
+    data = await getREST(endpoint, "edge");    
+    if (data) {dateUpdated = data;}
 } else if (chromeLink) {
     const url = new URL(chromeLink);
     const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;

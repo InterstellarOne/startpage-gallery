@@ -27,7 +27,7 @@
 @media (prefers-color-scheme: dark) {
 :root {
     --bg-primary: #121314 !important;
-    --icon-text-primary: #ffffff;
+    --icon-text-primary: #f2f5fc;
     --text-secondary: #e2e3ec;
     --text-tertiary: #a2a2a2;
     

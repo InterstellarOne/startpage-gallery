@@ -40,6 +40,10 @@ async function getREST(url, platform) {
                 stars = 0;
                 lastUpdated = Date.parse(data.results?.[0].currentVersionReleaseDate);
                 break;
+            case "edge":
+                stars = 0;
+                lastUpdated = Date.parse(data.lastUpdateDate);
+                break;
         }
 
         return [stars, lastUpdated]
@@ -159,7 +163,20 @@ for (const file of files) {
             "https://itunes.apple.com/"
         ).href;
 
-        newDate = await getREST(endpoint, "safari");
+        data = await getREST(endpoint, "safari");
+        newDate = data[1];
+    } else if (content.edgeLink) {
+        const url = new URL(content.edgeLink);
+        const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;
+        const segments = pathname.split("/")
+        const urlPath = segments[segments.length - 1];
+        urlPart = "addons/api/v1/catalog/" + urlPath;
+        endpoint = new URL(
+            urlPart,
+            "https://microsoftedge.microsoft.com/"
+        ).href;
+        data = await getREST(endpoint, "edge");    
+        newDate = data[1];
     } else if (content.chromeLink) {
         const url = new URL(content.chromeLink);
         const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;
@@ -171,7 +188,8 @@ for (const file of files) {
             "https://chrome-stats.com/"
         ).href
 
-        newDate = await getChromeREST(endpoint);
+        data = await getChromeREST(endpoint);
+        newDate = data[1];
     } else {
         console.error("Cannot parse file", content.title)
     }

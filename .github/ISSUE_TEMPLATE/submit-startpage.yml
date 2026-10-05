@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
 
-        Thanks for submitting a theme! Once filled out, your submission will be automatically processed into a pull request to be manually reviewed.
+        Thanks for submitting a startpage! Once filled out, your submission will be automatically processed into a pull request to be manually reviewed. For extra guidance on what is allowed in a submission, see [this page](https://github.com/InterstellarOne/startpage-gallery#submitting-a-new-startpage).
   - type: input
     id: name
     attributes:
@@ -107,6 +107,11 @@ body:
     id: chromeLink
     attributes:
       label: "Chrome Web Store"
+      placeholder: https://chromewebstore.google.com/detail/example/qwertyuiopasdfghjkl/
+  - type: input
+    id: edgeLink
+    attributes:
+      label: "Microsoft Edge Add-ons"
       placeholder: https://chromewebstore.google.com/detail/example/qwertyuiopasdfghjkl/
   - type: input
     id: safariLink

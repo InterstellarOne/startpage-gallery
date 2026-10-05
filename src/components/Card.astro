@@ -2,6 +2,7 @@
 // src/components/Card.astro
 import firefoxIcon from "../assets/firefoxbrowser.svg";
 import chromeIcon from "../assets/chromewebstore.svg";
+import edgeIcon from "../assets/edge.svg";
 import safariIcon from "../assets/safari.svg";
 import githubIcon from "../assets/github.svg";
 import websiteIcon from "../assets/website.svg";
@@ -14,6 +15,7 @@ interface Props {
   description: string;
   firefoxLink?: string;
   chromeLink?: string;
+  edgeLink?: string;
   safariLink?: string;
   gitLink?: string;
   websiteLink?: string;
@@ -32,6 +34,7 @@ const {
   description,
   firefoxLink,
   chromeLink,
+  edgeLink,
   safariLink,
   gitLink,
   websiteLink,
@@ -81,6 +84,18 @@ const {
             aria-label="Download extension for Chromium-based browsers"
           >
             <img src={chromeIcon.src} alt="" aria-hidden="true" />
+          </a>
+        )
+      }
+      {
+        edgeLink && (
+          <a
+            href={edgeLink}
+            target="_blank"
+            class="icon-link edge"
+            aria-label="Download extension for Safari"
+          >
+            <img src={edgeIcon.src} alt="" aria-hidden="true" />
           </a>
         )
       }
