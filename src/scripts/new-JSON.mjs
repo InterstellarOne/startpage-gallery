@@ -19,7 +19,7 @@ const description = Array.isArray(parsedData["Description"]) ? parsedData["Descr
 const tags = [];
 
 function format (tag) {
-    return tag.replace(/[^a-zA-Z0-9' ]/g, "");
+    return tag.replace(/[^a-zA-Z0-9'\- ]/g, "");
 }
 
 for (let i = 1; i < 9; i++) {
