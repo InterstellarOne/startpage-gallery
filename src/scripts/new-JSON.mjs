@@ -18,12 +18,19 @@ const description = Array.isArray(parsedData["Description"]) ? parsedData["Descr
 // Tags
 const tags = [];
 
+function titleCase(s) {
+    return s.toLowerCase()
+            .split(' ')
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+            .join(' ');
+}
+
 function format (tag) {
     return tag.replace(/[^a-zA-Z0-9'\- ]/g, "");
 }
 
 for (let i = 1; i < 9; i++) {
-    const tag = format(parsedData[i]);
+    const tag = titleCase(format(parsedData[i]));
 
     if (tag && tag != "No response") {
         tags.push(tag);
