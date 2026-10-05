@@ -1,0 +1,16 @@
+{
+  "title": "TabsBoard",
+  "description": "A new tab page for people with too many tabs.",
+  "image": {
+    "src": "screenshots/tabsboard4315.png"
+  },
+  "tags": [
+    "browser-extension",
+    "start-page",
+    "tabs-management"
+  ],
+  "dateAdded": 1791229425228,
+  "proprietary": false,
+  "gitLink": "https://github.com/MAHcodes/TabsBoard.git",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/tabsboard/"
+}
