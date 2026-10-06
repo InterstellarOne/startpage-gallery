@@ -286,7 +286,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     ).href;
 
     data = await getREST(endpoint, "firefox");
-    if (data) {dateUpdated = data;}
+    if (data[1]) {dateUpdated = data[1];}
 
 } else if (safariLink) { 
     const url = new URL(safariLink);
@@ -299,7 +299,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
         "https://itunes.apple.com/"
     ).href;
     data = await getREST(endpoint, "safari");
-    if (data) {dateUpdated = data;}
+    if (data[1]) {dateUpdated = data[1];}
 } else if (edgeLink) {
             const url = new URL(edgeLink);
     const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;
@@ -311,7 +311,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
         "https://microsoftedge.microsoft.com/"
     ).href;
     data = await getREST(endpoint, "edge");    
-    if (data) {dateUpdated = data;}
+    if (data[1]) {dateUpdated = data[1];}
 } else if (chromeLink) {
     const url = new URL(chromeLink);
     const pathname = url.pathname.endsWith('/') ? url.pathname.slice(0, -1) : url.pathname;
@@ -324,7 +324,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     ).href
 
     data = await getChromeREST(endpoint);
-    if (data) {dateUpdated = data;}
+    if (data[1]) {dateUpdated = data[1];}
 } else if (gitLink){
     console.error("Unidentified source hostname");
 } else {
