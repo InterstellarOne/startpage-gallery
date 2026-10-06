@@ -189,7 +189,7 @@ for (const file of files) {
         ).href
 
         data = await getChromeREST(endpoint);
-        newDate = data[1];
+        newDate = data;
     } else {
         console.error("Cannot parse file", content.title)
     }
