@@ -5,12 +5,11 @@
     "src": "screenshots/tabsboard4315.png"
   },
   "tags": [
-    "browser-extension",
-    "start-page",
-    "tabs-management"
+    "Tab Managment"
   ],
   "dateAdded": 1791229425228,
   "proprietary": false,
-  "gitLink": "https://github.com/MAHcodes/TabsBoard.git",
-  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/tabsboard/"
+  "gitLink": "https://github.com/MAHcodes/TabsBoard",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/tabsboard/",
+  "stars": 0
 }
