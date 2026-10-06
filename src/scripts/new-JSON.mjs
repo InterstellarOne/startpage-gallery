@@ -32,7 +32,7 @@ function format (tag) {
 for (let i = 1; i < 9; i++) {
     const tag = titleCase(format(parsedData[i]));
 
-    if (tag && tag != "No response") {
+    if (tag && tag != "No Response") {
         tags.push(tag);
     } else {
         console.log(`Tag ${i} not found`);
