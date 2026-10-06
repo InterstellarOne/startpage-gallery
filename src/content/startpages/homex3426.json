@@ -1,0 +1,24 @@
+{
+  "title": "homex",
+  "description": "homex is a clean, modern, private homepage. It also helps boost browser performance.",
+  "image": {
+    "src": "screenshots/homex3426.png"
+  },
+  "tags": [
+    "Wallpaper",
+    "Lightweight",
+    "Modern",
+    "Clock",
+    "Clean",
+    "No Response",
+    "No Response",
+    "No Response"
+  ],
+  "dateAdded": 1791284730520,
+  "proprietary": true,
+  "dateUpdated": [
+    null,
+    1791025573000
+  ],
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/homex/"
+}
