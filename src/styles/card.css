@@ -38,6 +38,7 @@
 .image-card-container {
   aspect-ratio: 16 / 10;
   background-size: cover;
+  background-position: center;
   display: flex;
   border-radius: 10px;
   margin: 5px;
