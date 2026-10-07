@@ -1,0 +1,25 @@
+{
+  "title": "Bonjourr",
+  "description": "Bonjourr is a modern alternative to extensions like Momentum and Tabliss, blending iOS-inspired design with powerful customization tools to create a calm, functional new tab page experience you'll actually enjoy.  Whether you're looking for a minimalist start page, a personalized homepage, or a productivity-focused new tab page, Bonjourr brings everything together beautifully.",
+  "image": {
+    "src": "screenshots/bonjourr2249.png"
+  },
+  "tags": [
+    "Customizable",
+    "Minamalist",
+    "Clock",
+    "Video Wallpaper",
+    "Custom Css",
+    "Widgets",
+    "Links",
+    "Search"
+  ],
+  "dateAdded": 1791381630633,
+  "proprietary": false,
+  "dateUpdated": 1791280766000,
+  "gitLink": "https://github.com/victrme/Bonjourr",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/",
+  "chromeLink": "https://chromewebstore.google.com/detail/bonjourr-%C2%B7-minimalist-new/dlnejlppicbjfcfcedcflplfjajinajd",
+  "websiteLink": "https://bonjourr.fr/",
+  "stars": 2099
+}
