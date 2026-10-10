@@ -22,7 +22,7 @@ body:
     id: description
     attributes:
       label: "Description"
-      description: A one or two sentence description for the startpage.
+      description: A short description of the startpage. Copying a couple of the main setntences from a store page is usually good.
       placeholder: The description, goes here.
     validations:
       required: true
