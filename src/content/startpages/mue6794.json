@@ -1,0 +1,25 @@
+{
+  "title": "Mue",
+  "description": "A fast, open and free-to-use browser extension that gives a new, fresh and customisable tab page to modern browsers. Every tab hits different with Mue. Stunning backgrounds, quotes that slap, places for your notes - everything you need to lock in.",
+  "image": {
+    "src": "screenshots/mue6794.png"
+  },
+  "tags": [
+    "Minimalist",
+    "Widgets",
+    "Customizable",
+    "Random Wallpapers",
+    "Notes",
+    "Community Marketplace",
+    "Zen Mode",
+    "Custom Css"
+  ],
+  "dateAdded": 1791669087830,
+  "proprietary": false,
+  "dateUpdated": 1785746583000,
+  "gitLink": "https://github.com/mue/mue",
+  "firefoxLink": "https://addons.mozilla.org/en-GB/firefox/addon/mue/",
+  "chromeLink": "https://chromewebstore.google.com/detail/mue/bngmbednanpcfochchhgbkookpiaiaid",
+  "websiteLink": "https://muetab.com/",
+  "stars": 764
+}
