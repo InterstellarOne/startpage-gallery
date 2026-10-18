@@ -20,7 +20,7 @@ const startpages = await getCollection("startpages");
   </div>
   <div id="no-results">
     <h1 id="no-results-header">No results found for your query</h1>
-    <h2 id="no-results-line-2">Try changing your filters</h2>
+    <h2 id="no-results-line-2">Try adjusting your filters.</h2>
 
   </div>
 </Layout>
@@ -85,6 +85,7 @@ const startpages = await getCollection("startpages");
     });
 
     filtered.forEach((card) => (card.style.display = ""));
+    checkNoResults();
   }
 
   function hideProprietary() {
@@ -110,7 +111,6 @@ const startpages = await getCollection("startpages");
     searchCards(event.detail.search);
     lastSearch = event.detail.search;
     filterPlatform(lastPlatform);
-    checkNoResults();
   });
 
   window.addEventListener("checkbox-changed", (e) => {
