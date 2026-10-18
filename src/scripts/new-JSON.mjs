@@ -324,7 +324,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     ).href
 
     data = await getChromeREST(endpoint);
-    if (data[1]) {dateUpdated = data[1];}
+    if (data) dateUpdated = data;
 } else if (gitLink){
     console.error("Unidentified source hostname");
 } else {
