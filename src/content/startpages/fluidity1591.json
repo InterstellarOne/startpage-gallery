@@ -1,0 +1,23 @@
+{
+  "title": "Fluidity",
+  "description": "A minimalist startpage with bold color themes, fluid folder animations, and integrated search with customizable shortcuts.",
+  "image": {
+    "src": "screenshots/fluidity1591.png"
+  },
+  "tags": [
+    "Themes",
+    "Animations",
+    "Links",
+    "Folders",
+    "Image",
+    "Search",
+    "Clock",
+    "Minimalist"
+  ],
+  "dateAdded": 1792346232488,
+  "proprietary": false,
+  "dateUpdated": 1791895935000,
+  "gitLink": "https://github.com/PrettyCoffee/fluidity",
+  "websiteLink": "https://prettycoffee.github.io/fluidity/",
+  "stars": 364
+}
