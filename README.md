@@ -19,7 +19,6 @@ Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-g
 - Github will allow you to upload multiple images, but please only upload one. If you do upload multiple, only the first one uploaded will actually be added to the repository, and the rest won't be easily accessible.
 - When adding tags, please use existing ones when possible (e.g. use "Clock" instead of "Time") and only add new ones when the existing ones do not cover what you wish to describe.
 - If the startpage is just named "startpage", I will append the author name in brackets after the startpage, e.g. "startpage (InterstellarOne)".
-- A startpage that _only_ has a chrome store link and no others will use two paid API calls per week. Please add a link to another store if you are able to.
 
 ### Editing an existing startpage
 To edit an existing startpage, you must be either the person who originally submitted the startpage, or if you are affiliated with the startpage. To submit an edit request, there are two possible methods.
