@@ -1,0 +1,20 @@
+{
+  "title": "Reflect New Tab",
+  "description": "Replace Google Chrome's default new tab page with a beautiful dashboard of customizable widgets. You can see an overview of your day, upcoming meetings, your team's different time zones, the weather, your top links, and more.",
+  "image": {
+    "src": "screenshots/reflect-new-tab1880.png"
+  },
+  "tags": [
+    "Widgets",
+    "Clean",
+    "Modular",
+    "Pomodoro",
+    "Links",
+    "Search",
+    "Calendar Sync",
+    "Weather"
+  ],
+  "dateAdded": 1792352158525,
+  "proprietary": true,
+  "chromeLink": "https://chromewebstore.google.com/detail/reflect-new-tab/jnhdkfampckckkmbanadkkjlcaemdkob"
+}
