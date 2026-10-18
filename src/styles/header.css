@@ -36,7 +36,7 @@
     color: var(--icon-text-primary);
 }
 
-@media only screen and (width <= 500px) {
+@media only screen and (width <= 525px) {
     #header-title {
         display: none;
     }

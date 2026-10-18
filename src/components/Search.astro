@@ -36,7 +36,7 @@ const uniqueTags = Array.from(new Set(tags));
         </svg>
       </button>
     </div>
-    <select id="startpage-sort" class="search-item quicksand-regular">
+    <select id="startpage-sort" class="select quicksand-regular">
       <option value="latest">Recently Added</option>
       <option value="updated">Recently Updated</option>
       <option value="stars">Repository Stars</option>
@@ -59,6 +59,15 @@ const uniqueTags = Array.from(new Set(tags));
     <div id="tag-list" class="classic-scroll">
       {uniqueTags.map((uniqueTags) => <span class="tag">{uniqueTags}</span>)}
     </div>
+      <select id="platform-selector" class="select quicksand-regular">
+      <option value="default">Filter by platform</option>
+      <option value="firefox">Firefox</option>
+      <option value="chrome">Chrome</option>
+      <option value="edge">Edge</option>
+      <option value="safari">Safari</option>
+      <option value="git">GitHub</option>
+      <option value="website">Website</option>
+    </select>
   </div>
   <button id="collapse-btn" type="button">
     <svg
@@ -101,9 +110,19 @@ const uniqueTags = Array.from(new Set(tags));
   ) as HTMLInputElement | null;
   const tags = document.querySelectorAll(".tag");
 
+  const selectPlatform = document.querySelector(
+    "#platform-selector",
+  ) as HTMLInputElement;
+
   selectSort?.addEventListener("change", () => {
     window.dispatchEvent(
       new CustomEvent("sort-changed", { detail: { sort: selectSort.value } }),
+    );
+  });
+
+  selectPlatform?.addEventListener("change", () => {
+    window.dispatchEvent(
+      new CustomEvent("platform-changed", { detail: { platform: selectPlatform.value } }),
     );
   });
 
@@ -181,6 +200,7 @@ const uniqueTags = Array.from(new Set(tags));
   selectSearch.value = "";
   selectSort.value = "latest";
   checkbox.checked = true;
+  selectPlatform.value = "default";
 
   if (navigator.maxTouchPoints > 1) {
     searchRow2.style.display = "none";
