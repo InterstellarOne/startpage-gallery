@@ -1,0 +1,21 @@
+{
+  "title": "startpage (druxorey)",
+  "description": "A static personal startpage, featuring keyboard shortcuts, and a nice layout. It includes quick links to favorite websites, a search bar, and a minimalist layout.",
+  "image": {
+    "src": "screenshots/startpage-druxorey3386.png"
+  },
+  "tags": [
+    "Search",
+    "Clock",
+    "Greeting",
+    "Image",
+    "Links",
+    "Keyboard Shortcuts",
+    "Categories"
+  ],
+  "dateAdded": 1792295640038,
+  "proprietary": false,
+  "dateUpdated": 1788543422000,
+  "gitLink": "https://github.com/druxorey/startpage",
+  "stars": 78
+}
