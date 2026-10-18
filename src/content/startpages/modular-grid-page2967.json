@@ -1,0 +1,22 @@
+{
+  "title": "Modular Grid Page",
+  "description": "Modular Grid Page is a fast, customizable browser homepage built as a React app. The layout is a responsive auto-sizing tile grid. Every tile, theme, and data source is configurable through the built-in settings panel — no config files to edit by hand.",
+  "image": {
+    "src": "screenshots/modular-grid-page2967.png"
+  },
+  "tags": [
+    "Static",
+    "Grid",
+    "Widgets",
+    "Customizable",
+    "Themes",
+    "Custom Css",
+    "Keyboard Shortcuts",
+    "Weather Radar"
+  ],
+  "dateAdded": 1792345229979,
+  "proprietary": false,
+  "dateUpdated": 1789086635000,
+  "gitLink": "https://github.com/timh-dev/startup-page",
+  "stars": 527
+}
