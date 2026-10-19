@@ -1,0 +1,25 @@
+{
+  "title": "mtab",
+  "description": "mtab is an extension that offers a modern new tab page, prioritizing customizability such as choosing wallpapers, bookmarks, and more. Additionally, it emphasizes a smooth user experience through its animations on the new page.",
+  "image": {
+    "src": "screenshots/mtab4293.png"
+  },
+  "tags": [
+    "Customizable",
+    "Bookmarks",
+    "Random Wallpaper",
+    "Search",
+    "Clock",
+    "Greeting",
+    "Custom Css",
+    "Lightweight"
+  ],
+  "dateAdded": 1792383946251,
+  "proprietary": false,
+  "dateUpdated": 1792278761000,
+  "gitLink": "https://github.com/maxhu08/mtab",
+  "firefoxLink": "https://addons.mozilla.org/firefox/addon/mtab",
+  "chromeLink": "https://chromewebstore.google.com/detail/mtab/fdaphilojaklgkoocegabckfanjoacjg",
+  "websiteLink": "https://mtab.maxhu.dev/",
+  "stars": 574
+}
