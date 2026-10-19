@@ -42,4 +42,4 @@ I used Gemini as a source of information for this project, mainly when working w
 - [ ] Style blink scrollbars
 - [x] Add sort by browser to sorting options
 - [ ] Write comments for search algorithm
-- [ ] Fix favicon
+- [x] Fix favicon
