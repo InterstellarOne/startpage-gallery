@@ -1,0 +1,23 @@
+{
+  "title": "Minimo",
+  "description": "An elegant, minimal new tab page. Minimo provides a simple way to quickly access your favorite websites and have useful information at a glance. It syncs with your tabs from your mobile devices and displays them at the bottom for quick access.",
+  "image": {
+    "src": "screenshots/minimo9796.png"
+  },
+  "tags": [
+    "Clock",
+    "Links",
+    "Synced Tabs",
+    "Themes",
+    "Minimal",
+    "Battery Level",
+    "Time Zones",
+    "Scratchpad"
+  ],
+  "dateAdded": 1792468356839,
+  "proprietary": false,
+  "dateUpdated": 1759375216000,
+  "gitLink": "https://github.com/krismuniz/minimo",
+  "websiteLink": "https://projects.krismuniz.com/minimo/",
+  "stars": 220
+}
