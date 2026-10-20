@@ -1,0 +1,23 @@
+{
+  "title": "Catppuccin Startpage",
+  "description": "A minimalistic and customisable startpage that uses the Catppuccin palettes. The startpage emphasizes being minimal in all aspects, having a consistent user interface and codebase, and having a simple design and configuration.",
+  "image": {
+    "src": "screenshots/catppuccin-startpage5837.png"
+  },
+  "tags": [
+    "Themes",
+    "Customizable",
+    "Search",
+    "Weather",
+    "Clock",
+    "Time Zones",
+    "Minimal",
+    "Static"
+  ],
+  "dateAdded": 1792467870855,
+  "proprietary": false,
+  "dateUpdated": 1790751802000,
+  "gitLink": "https://github.com/pivoshenko/catppuccin-startpage",
+  "websiteLink": "https://pivoshenko.github.io/catppuccin-startpage/",
+  "stars": 312
+}
