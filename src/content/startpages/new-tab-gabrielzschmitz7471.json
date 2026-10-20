@@ -1,0 +1,23 @@
+{
+  "title": "New Tab (gabrielzschmitz)",
+  "description": "Upgrade your browser's new tab with a clean and customizable interface. This extension transforms your default new tab into a functional dashboard, showing the current time, date, and weather alongside a customizable grid of your favorite bookmarks.",
+  "image": {
+    "src": "screenshots/new-tab-gabrielzschmitz7471.png"
+  },
+  "tags": [
+    "Minimal",
+    "Clock",
+    "Image",
+    "Links",
+    "Weather",
+    "Dark Mode",
+    "Date"
+  ],
+  "dateAdded": 1792470064030,
+  "proprietary": false,
+  "dateUpdated": 1742954233000,
+  "gitLink": "https://github.com/gabrielzschmitz/NewTab",
+  "firefoxLink": "https://addons.mozilla.org/en-GB/firefox/addon/new-tab-by-gabrielzschmitz/",
+  "chromeLink": "https://chromewebstore.google.com/detail/new-tab/nighhjpfiampencdhknmonmgcmfegghj",
+  "stars": 5
+}
