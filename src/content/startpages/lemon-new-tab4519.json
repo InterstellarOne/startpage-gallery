@@ -1,0 +1,24 @@
+{
+  "title": "Lemon New Tab",
+  "description": "Make every new tab feel fast, effortless, and enjoyable. Lemon New Tab is a local-first, open-source browser extension with no additional account required. Your core settings and personalized content stay in your browser, giving you fast loading, a clean interface, and no distracting news feed or ads.",
+  "image": {
+    "src": "screenshots/lemon-new-tab4519.png"
+  },
+  "tags": [
+    "Customizable",
+    "Material You",
+    "Links",
+    "Bookmarks",
+    "Notes",
+    "Quotes",
+    "Wallpaper",
+    "Search"
+  ],
+  "dateAdded": 1792553614934,
+  "proprietary": false,
+  "dateUpdated": 1792243426000,
+  "gitLink": "https://github.com/Redlnn/lemon-new-tab",
+  "firefoxLink": "https://addons.mozilla.org/en-GB/firefox/addon/lemon-new-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/zero-startpage-newtab-rep/ogdbkgoionmjnlinbmmjncnhafhaenck",
+  "stars": 201
+}
