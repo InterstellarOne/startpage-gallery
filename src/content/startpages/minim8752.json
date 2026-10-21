@@ -1,0 +1,25 @@
+{
+  "title": "Minim",
+  "description": "A minimal new tab. The startpage features a small selection of text-based widgets, with layout and background options..",
+  "image": {
+    "src": "screenshots/minim8752.png"
+  },
+  "tags": [
+    "Minimal",
+    "Simple",
+    "Clock",
+    "Weather",
+    "Customizable",
+    "Random Wallpaper",
+    "Links",
+    "Liquid Glass"
+  ],
+  "dateAdded": 1792554034937,
+  "proprietary": false,
+  "dateUpdated": 1749011511000,
+  "gitLink": "https://github.com/avinayak/minim",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/minim-minimalist-new-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/minim/kpblgdhkligkbbnbpkigppblggflihgn",
+  "websiteLink": "https://minim.tulv.in/",
+  "stars": 106
+}
