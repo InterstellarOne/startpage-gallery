@@ -1,0 +1,23 @@
+{
+  "title": "Aura Tab",
+  "description": "Redefine your new tab with minimalist aesthetics. Dynamic light orbs, 4K wallpapers, macOS-style Dock, and zero-lag performance. A built-in, full-screen Launchpad helps to organize and search your browser apps and shortcuts effortlessly.",
+  "image": {
+    "src": "screenshots/aura-tab1194.png"
+  },
+  "tags": [
+    "Random Wallpaper",
+    "Links",
+    "Bookmarks",
+    "Launchpad",
+    "Photo Viewer",
+    "Search",
+    "Liquid Glass",
+    "Clock"
+  ],
+  "dateAdded": 1792696647701,
+  "proprietary": false,
+  "dateUpdated": 1783949483000,
+  "gitLink": "https://github.com/nil-byte/aura-tab",
+  "chromeLink": "https://chromewebstore.google.com/detail/adeamimoopnlcflnpjgcfmebboajlkja",
+  "stars": 60
+}
