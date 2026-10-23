@@ -1,7 +1,7 @@
 # Startpage Gallery
 A static community gallery showcasing startpages (New Tab pages) from across the internet. Pages can be submitted through GitHub issues, which automatically will open a pull-request with the startpage's information.
 
-Shortlink: https://spoo.me/startpagegallery
+https://startpage.gallery
 
 \
 ![](https://raw.githubusercontent.com/InterstellarOne/startpage-gallery/refs/heads/master/public/gallery-cover.png)
