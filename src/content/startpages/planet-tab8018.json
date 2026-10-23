@@ -1,0 +1,24 @@
+{
+  "title": "Planet Tab",
+  "description": "A cool dynamic new tab with a configurable 3D rotating planet, as well as options for weather, date, time, search, and bookmarks.",
+  "image": {
+    "src": "screenshots/planet-tab8018.jpg"
+  },
+  "tags": [
+    "3D",
+    "Clock",
+    "Customizable",
+    "Weather",
+    "Search",
+    "Bookmarks",
+    "Date",
+    "three.js"
+  ],
+  "dateAdded": 1792730763577,
+  "proprietary": true,
+  "dateUpdated": 1669852800000
+  "gitLink": "https://github.com/Haojen/planet-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/planet-tab/jcedhcihkblmpjhkbjobchnonaackgjl",
+  "websiteLink": "https://haojen.github.io/planet-tab/",
+  "safariLink": "https://apps.apple.com/us/app/planet-tab/id6444109404"
+}
