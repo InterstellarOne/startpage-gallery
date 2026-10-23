@@ -21,7 +21,6 @@ const startpages = await getCollection("startpages");
   <div id="no-results">
     <h1 id="no-results-header">No results found for your query</h1>
     <h2 id="no-results-line-2">Try adjusting your filters.</h2>
-
   </div>
 </Layout>
 
@@ -32,9 +31,7 @@ const startpages = await getCollection("startpages");
   let lastPlatform = "";
   let lastChecked = true;
 
-  const noResults = document.getElementById(
-    "no-results",
-  ) as HTMLDivElement;
+  const noResults = document.getElementById("no-results") as HTMLDivElement;
   // sorts the cards based on latest added, latest updated, or alphabetical.
   function sortCards(method: string) {
     cards.sort((a, b) => {
@@ -128,7 +125,7 @@ const startpages = await getCollection("startpages");
     lastPlatform = event.detail.platform;
     lastChecked ? showProprietary() : hideProprietary();
     checkNoResults();
-  })
+  });
 
   sortCards("latest");
 
@@ -141,3 +138,7 @@ const startpages = await getCollection("startpages");
   }
   noResults.style.display = "none";
 </script>
+<script
+  defer
+  src="https://cloud.umami.is/script.js"
+  data-website-id="24400b20-c199-44ea-ad34-26a497db1a3b"></script>
