@@ -37,9 +37,3 @@ Please submit enhancements and bugs to the issues tag! I will do my best with my
 
 ## AI Usage Disclosure
 I used Gemini as a source of information for this project, mainly when working with Astro and when trying to understand REST APIs for different services, as the documentation was often lackluster or missing important details. I did my best to use Startpage (the search engine!)/Stack Overflow when possible when searching for information so I was not reliant on Gemini when creating the website. I have a background in C, so while I am new to JavaScript, most of the syntax is the same so programming the backend was fairly straightforward.
-
-## To Do:
-- [ ] Style blink scrollbars
-- [x] Add sort by browser to sorting options
-- [ ] Write comments for search algorithm
-- [x] Fix favicon
