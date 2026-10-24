@@ -1,0 +1,23 @@
+{
+  "title": "Horizon Tab",
+  "description": "Horizon Tab turns Chrome's default new tab into a calm, personal dashboard. It loads instantly, asks for almost nothing, and stays out of your way.",
+  "image": {
+    "src": "screenshots/horizon-tab2380.jpg"
+  },
+  "tags": [
+    "Clock",
+    "Greeting",
+    "Weather",
+    "Search",
+    "Shortcuts",
+    "Links",
+    "Themes",
+    "Keyboard Shortcuts"
+  ],
+  "dateAdded": 1792873928761,
+  "proprietary": false,
+  "dateUpdated": 1791077112000,
+  "gitLink": "https://github.com/RishvanthAmsaraj/Horizon",
+  "chromeLink": "https://chromewebstore.google.com/detail/horizon-tab/gkhmbjhhpbeihhnobhkocagfabojfjoa",
+  "stars": 6
+}
