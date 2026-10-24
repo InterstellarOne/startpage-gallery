@@ -1,0 +1,21 @@
+{
+  "title": "Startwerk",
+  "description": "Your favorite websites. The weather right outside your door. Your feeds. Your favorite photos. The habits you’ve committed to. Everything is there before you even start typing.",
+  "image": {
+    "src": "screenshots/startwerk3461.png"
+  },
+  "tags": [
+    "Links",
+    "Clock",
+    "Workspaces",
+    "Weather",
+    "Image",
+    "Appointments",
+    "Feeds",
+    "Notes"
+  ],
+  "dateAdded": 1792873413262,
+  "proprietary": true,
+  "dateUpdated": 1792627200000,
+  "chromeLink": "https://chromewebstore.google.com/detail/startwerk-%E2%80%93-a-better-star/bfkogeheilihfleenicihmpllolohhaj"
+}
