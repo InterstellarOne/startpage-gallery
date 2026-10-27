@@ -1,0 +1,21 @@
+{
+  "title": "Headway",
+  "description": "A simple to-do list for your new tab. Keep daily tasks in view, find your focus, and make a little headway.",
+  "image": {
+    "src": "screenshots/headway--a-calmer-new-tab1698.jpg"
+  },
+  "tags": [
+    "Minimal",
+    "Random Wallpaper",
+    "To-Do List",
+    "Tasks",
+    "Date",
+    "Weather",
+    "Wallpaper Collections"
+  ],
+  "dateAdded": 1793118385566,
+  "proprietary": true,
+  "dateUpdated": 1792800000000,
+  "chromeLink": "https://chromewebstore.google.com/detail/headway-%E2%80%94-a-calmer-new-ta/nnmkipmghijjolehhibjjmmlpdgnkpgi",
+  "websiteLink": "https://headwaytab.com/"
+}
