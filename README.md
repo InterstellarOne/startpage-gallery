@@ -21,7 +21,7 @@ Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-g
 - If the startpage is just named "startpage" or "New Tab", I will append the author name in brackets after the startpage, e.g. "startpage (InterstellarOne)".
 
 ### Editing an existing startpage
-Edit requests are not garrunteed to be accepted. If there is a typo or a link that is incorrect, I will accept it, but if you are making significant changes you may want to provide some information on your affiliation to the project, to have a better chance of having your edit accepted. To submit an edit request, there are two possible methods.
+Edit requests are not guaranteed to be accepted. If there is a typo or a link that is incorrect, I will accept it, but if you are making significant changes you may want to provide some information on your affiliation to the project to have a better chance of having your edit accepted. To submit an edit request, there are two possible methods.
 1. **Pull Request** - If you are comfortable creating a pull request, you may do so. Please provide a description of what you changed, and justify why you think the change is beneficial.
 The data for each startpage is stored in json files in [src/content/startpages/](https://github.com/InterstellarOne/startpage-gallery/tree/master/src/content/startpages), and screenshots are stored in [public/screenshots/](https://github.com/InterstellarOne/startpage-gallery/tree/master/public/screenshots). If you replace the image, please keep the filename the same. Remember that you may have a maximum of eight tags.
 2. **Edit Issue** - Create a new [Edit existing issue](https://github.com/InterstellarOne/startpage-gallery/issues/new?template=edit_existing.md) and follow the instructions there.
