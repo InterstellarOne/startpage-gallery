@@ -1,0 +1,23 @@
+{
+  "title": "Cute Desk App",
+  "description": "Replace your new tab with Cute Desk App — clock, weather, notes, games, quotes, pomodoro, desk plant & more. Private. Fast. Free!",
+  "image": {
+    "src": "screenshots/cute-desk-app5186.png"
+  },
+  "tags": [
+    "Clock",
+    "Weather",
+    "Notes",
+    "Games",
+    "Quotes",
+    "Pomodoro",
+    "Themes",
+    "Widgets"
+  ],
+  "dateAdded": 1793110096894,
+  "proprietary": true,
+  "dateUpdated": 1781954249000,
+  "chromeLink": "https://chromewebstore.google.com/detail/cute-desk-app-new-tab/fpngmdpckgiopfkjaipjhnkjfjoafhkf",
+  "websiteLink": "https://cutedesk.app/",
+  "safariLink": "https://apps.apple.com/us/app/cute-desk-app-new-tab/id6779738782"
+}
