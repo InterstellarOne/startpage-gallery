@@ -1,0 +1,22 @@
+{
+  "title": "startyparty",
+  "description": "the start of it all",
+  "image": {
+    "src": "screenshots/startyparty1162.png"
+  },
+  "tags": [
+    "News",
+    "Podcats",
+    "Media",
+    "Videos",
+    "Feeds",
+    "Search",
+    "Content",
+    "Startpage"
+  ],
+  "dateAdded": 1793627743714,
+  "proprietary": true,
+  "dateUpdated": 1716189634000,
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/startyparty/",
+  "websiteLink": "https://startyparty.dev"
+}
