@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Affiliation**
-Changes to existing startpages are allowed only if you originally submitted the startpage, or if you are affiliated with the startpage. Please share proof of one of these.
+State your affiliation with the startpage, and share any proof if relevant.
 
 **What Startpage do you want to edit?**
 The name of the startpage you want to edit.

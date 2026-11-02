@@ -19,18 +19,36 @@
       href={`${import.meta.env.BASE_URL}/favicon.svg`}
       media="(prefers-color-scheme: light)"
     />
+    <!-- Primary Meta Tags -->
+    <title>Startpage Gallery</title>
+    <meta name="title" content="Startpage Gallery" />
+    <meta
+      name="description"
+      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
+    />
+
+    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:title" content="Startpage Gallery" />
     <meta
       property="og:description"
-      content="A place to discover and share browser startpages."
+      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
     />
-    <meta name="title" content="Startpage Gallery" />
+    <meta property="og:image" content="gallery-cover.png" />
+
+    <!-- X (Twitter) -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:title" content="Startpage Gallery" />
     <meta
-      name="description"
-      content="A place to discover and share browser startpages."
+      property="twitter:description"
+      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
     />
+    <meta property="twitter:image" content="gallery-cover.png" />
+
+    <!-- Meta Tags Generated with https://metatags.io -->
+
     <meta name="theme-color" content="#3584e4" />
     <meta name="generator" content={Astro.generator} />
     <title>Startpage Gallery</title>
