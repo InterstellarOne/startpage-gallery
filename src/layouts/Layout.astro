@@ -24,7 +24,7 @@
     <meta name="title" content="Startpage Gallery" />
     <meta
       name="description"
-      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
+      content="A place to discover and share browser startpages. Sort by keywords, filter by platforms, and discover projects you would have never known about otherwise!"
     />
 
     <!-- Open Graph / Facebook -->
@@ -33,9 +33,12 @@
     <meta property="og:title" content="Startpage Gallery" />
     <meta
       property="og:description"
-      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
+      content="A place to discover and share browser startpages. Sort by keywords, filter by platforms, and discover projects you would have never known about otherwise!"
     />
-    <meta property="og:image" content="gallery-cover.png" />
+    <meta
+      property="og:image"
+      content={new URL("/gallery-cover.png", Astro.url)}
+    />
 
     <!-- X (Twitter) -->
     <meta property="twitter:card" content="summary_large_image" />
@@ -43,9 +46,12 @@
     <meta property="twitter:title" content="Startpage Gallery" />
     <meta
       property="twitter:description"
-      content="A place to discover and share browser startpages. Sort the results, filter by platforms, and discover projects you would have never known about otherwise!"
+      content="A place to discover and share browser startpages. Sort by keywords, filter by platforms, and discover projects you would have never known about otherwise!"
     />
-    <meta property="twitter:image" content="gallery-cover.png" />
+    <meta
+      property="twitter:image"
+      content={new URL("/gallery-cover.png", Astro.url)}
+    />
 
     <!-- Meta Tags Generated with https://metatags.io -->
 
