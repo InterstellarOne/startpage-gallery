@@ -1,0 +1,21 @@
+{
+  "title": "Liquid Tab — iOS 27 Style New Tab",
+  "description": "Make every new tab feel like a brand-new iPhone. Liquid Tab brings the look and feel of iOS 27 to Chrome — with Liquid Glass, a real Lock Screen, the Dynamic Island, widgets, Control Center and 19 built-in apps for your whole day: journal, health, activity rings, wallet, contacts, games and more.",
+  "image": {
+    "src": "screenshots/liquid-tab--ios-27-style-new-tab8969.png"
+  },
+  "tags": [
+    "Customizable",
+    "Widgets",
+    "iOS",
+    "Links",
+    "Liquid Glass",
+    "Dynamic Island",
+    "Weather",
+    "Music"
+  ],
+  "dateAdded": 1793579141940,
+  "proprietary": true,
+  "dateUpdated": 1793145600000,
+  "chromeLink": "https://chromewebstore.google.com/detail/liquid-tab-%E2%80%94-ios-27-style/jikmehmoclpmeohanipmlpfnfjibalci"
+}
