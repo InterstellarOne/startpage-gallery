@@ -1,12 +1,12 @@
 {
   "title": "startyparty",
-  "description": "the start of it all",
+  "description": "the start of it all. startyparty is a dynamic start page extension for your browser, incorporating the latest articles, media, tech, games, features and content.",
   "image": {
     "src": "screenshots/startyparty1162.png"
   },
   "tags": [
     "News",
-    "Podcats",
+    "Podcasts",
     "Media",
     "Videos",
     "Feeds",
