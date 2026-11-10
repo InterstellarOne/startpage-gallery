@@ -18,7 +18,7 @@ Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-s
 - You can upload edited images, but they must showcase an actual screenshot of the project.
 - Github will allow you to upload multiple images, but please only upload one. If you do upload multiple, only the first one uploaded will actually be added to the repository, and the rest won't be easily accessible.
 - When adding tags, please use existing ones when possible, rather than adding new tags that could represent the same thing. (e.g. use "Clock" instead of "Time")
-- If the startpage is just named "startpage" or "New Tab", I will append the author name in brackets after the startpage, e.g. "startpage (InterstellarOne)".
+- If the startpage name is very generic such as "startpage" or "new tab", I will append the author name in brackets after the startpage, e.g. "startpage (InterstellarOne)".
 
 ### Editing an existing startpage
 Edit requests are not guaranteed to be accepted. If there is a typo or a link that is incorrect, I will accept it, but if you are making significant changes you may want to provide some information on your affiliation to the project to have a better chance of having your edit accepted. To submit an edit request, there are two possible methods.
