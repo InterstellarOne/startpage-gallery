@@ -9,7 +9,7 @@ https://startpage.gallery
 ## How to contribute
 
 ### Submitting a new startpage
-Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-gallery/issues/new?template=submit-startpage.yml
+Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-store/issues/new?template=submit-startpage.yml
 ) and follow the instructions there to submit a startpage. You do not have to be affiliated with the startpage to submit it, but you must at least like the startpage. 
 
 **Things to keep in mind:**
