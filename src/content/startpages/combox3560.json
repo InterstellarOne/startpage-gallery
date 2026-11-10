@@ -1,0 +1,20 @@
+{
+  "title": "Combox",
+  "description": "Combobox is a retro style home page that you can tune up as you like. The page is made up of widgets that you can add, move and delete. You can group widgets on different tabs to organize them by purpose.",
+  "image": {
+    "src": "screenshots/combox3560.png"
+  },
+  "tags": [
+    "Widgets",
+    "Themes",
+    "Rss",
+    "Links",
+    "Notes",
+    "Calendar",
+    "98",
+    "Retro"
+  ],
+  "dateAdded": 1794283624973,
+  "proprietary": true,
+  "websiteLink": "https://combobox.me/"
+}
