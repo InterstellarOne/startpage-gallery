@@ -69,6 +69,8 @@ const startpages = await getCollection("startpages");
 
     const filtered = cards.filter((c) => {
       const tags: string[] = c.dataset.tags?.split(" ") ?? [];
+      const additionalTags: string[] =
+        c.dataset.additionalTags?.split(" ") ?? [];
       return (
         // If you see this again, write comments for this algorithm - I forgot how it works
         c.dataset.title?.includes(filterKeywordString) ||
@@ -77,6 +79,9 @@ const startpages = await getCollection("startpages");
         ) ||
         filterKeywordArray.every((keyword) =>
           tags.some((tag: string) => tag.includes(keyword)),
+        ) ||
+        filterKeywordArray.every((keyword) =>
+          additionalTags.some((tag: string) => tag.includes(keyword)),
         )
       );
     });

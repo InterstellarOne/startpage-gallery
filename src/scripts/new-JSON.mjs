@@ -39,6 +39,9 @@ for (let i = 1; i < 9; i++) {
     }
 }
 
+// Aditional Tags
+const additionalTags = parsedData["Additional Tags"]?.toLowerCase() ?? ""
+
 // Cover
 // https://flaviocopes.com/how-to-download-an-image-from-url-in-node/
 
@@ -329,6 +332,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     console.error("Unidentified source hostname");
 } else {
     console.error("No parsable links in submission", title)
+    dateUpdated = null;
 }
 
 // Assemble JSON
@@ -339,6 +343,7 @@ const newJSONObject = {
         "src": imageFilePath
     },
     "tags": tags,
+    "additionalTags": additionalTags,
     "dateAdded": dateAdded,
     "proprietary": proprietary
 }

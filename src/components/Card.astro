@@ -25,6 +25,7 @@ interface Props {
     src: string;
   };
   tags: string[];
+  additionalTags?: string;
   proprietary: boolean;
   stars: number;
 }
@@ -42,6 +43,7 @@ const {
   dateAdded,
   image,
   tags,
+  additionalTags,
   proprietary,
   stars,
 } = Astro.props;
@@ -54,6 +56,7 @@ const {
   data-title={title.toLowerCase()}
   data-desc={description.toLowerCase()}
   data-tags={tags.join(" ").toLowerCase()}
+  data-additional-tags={additionalTags}
   data-proprietary={proprietary}
   data-stars={stars}
 >
@@ -225,11 +228,13 @@ const {
         </div>
         <h4 class="date-updated quicksand-regular">
           Updated: {
-            new Date(dateUpdated).toLocaleDateString("en-CA", {
-              month: "long",
-              day: "numeric",
-              year: "numeric",
-            })
+            dateUpdated
+              ? new Date(dateUpdated).toLocaleDateString("en-CA", {
+                  month: "long",
+                  day: "numeric",
+                  year: "numeric",
+                })
+              : "unknown"
           }
         </h4>
       </div>
