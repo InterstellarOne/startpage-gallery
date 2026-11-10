@@ -1,0 +1,22 @@
+{
+  "title": "Nightly",
+  "description": "A minimal and configurable start page for the web browser of your choice.",
+  "image": {
+    "src": "screenshots/nightly6085.png"
+  },
+  "tags": [
+    "Clock",
+    "Greeting",
+    "Wallpaper",
+    "Links",
+    "Minimal",
+    "Static",
+    "Blur"
+  ],
+  "dateAdded": 1794282611939,
+  "proprietary": false,
+  "dateUpdated": 1723342861000,
+  "gitLink": "https://github.com/damnitharshit/nightly",
+  "websiteLink": "https://damnitharshit.github.io/nightly/",
+  "stars": 188
+}
