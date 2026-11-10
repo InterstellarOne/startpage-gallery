@@ -36,6 +36,7 @@ Please submit enhancements and bugs to the issues tag! I will do my best with my
 - Thank you to [this course](https://webdevsimplified.github.io/fem-getting-started-with-javascript/) for teaching me basic JavaScript.
 - I am using [Issue Form Parser - GitHub Action](https://github.com/onmax/issue-form-parser) by onmax for automatic parsing of GitHub issues.
 - [Chrome Stats API](https://chrome-stats.com/docs/api) is used for chrome extension data.
+- [Umami](https://umami.is/) is used for anonymous analytics. 
 
 ## AI Usage Disclosure
 I used Gemini as a source of information for this project, mainly when working with Astro and when trying to understand REST APIs for different services, as the documentation was often lackluster or missing important details. I did my best to use Startpage (the search engine!)/Stack Overflow when possible when searching for information so I was not reliant on Gemini when creating the website. I have a background in C, so while I am new to JavaScript, most of the syntax is the same so programming the backend was fairly straightforward.
