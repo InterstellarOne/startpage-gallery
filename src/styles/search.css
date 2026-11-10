@@ -38,7 +38,7 @@
     background: var(--bg-search-button);
     padding: 10px;
     border-radius: 16px;
-    font-size: 16px;
+    font-size: 1rem;
     outline: none;
     color: var(--icon-text-primary);
 }
@@ -86,7 +86,7 @@
 }
 
 .search-prop {
-    font-size: 16px;
+    font-size: 1rem;
     margin: 5px;
 }
 

@@ -29,14 +29,14 @@
 }
 
 #no-results-header {
-  font-size: 40px;
+  font-size: 2.5rem;
   margin: 0px;
   color: var(--text-secondary);
   text-align: center;
 }
 
 #no-results-line-2 {
-  font-size: 30px;
+  font-size: 1.875rem;
   color: var(--text-secondary);
   text-align: center;
 }

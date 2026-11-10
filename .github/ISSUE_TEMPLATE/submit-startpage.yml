@@ -80,7 +80,7 @@ body:
       label: "8"
   - type: markdown
     attributes:
-      value: Add additional tags, separated by spaces. These will not appear on the cards, but they will be used for searches. Tags that contain spaces will still work.
+      value: Add additional tags below, separated by spaces. These will not appear on the cards, but they will still be used for searches. Tags that contain spaces will still work.
   - type: input
     id: additionaltags
     attributes:
