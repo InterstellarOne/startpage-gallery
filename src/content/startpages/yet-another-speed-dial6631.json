@@ -1,0 +1,24 @@
+{
+  "title": "Yet Another Speed Dial",
+  "description": "Yet Another Speed Dial is a lightning fast, customizable speed dial that replaces your new tab page with visual thumbnails of your favorite sites. It generates high quality thumbnails automatically, making it much easier to view, find and sort through all of your bookmarks.",
+  "image": {
+    "src": "screenshots/yet-another-speed-dial6631.png"
+  },
+  "tags": [
+    "Bookmarks",
+    "Minimal",
+    "Folders",
+    "Search",
+    "Wallpaper",
+    "Links",
+    "Clock"
+  ],
+  "dateAdded": 1794280946185,
+  "proprietary": false,
+  "dateUpdated": 1790871504000,
+  "gitLink": "https://github.com/conceptualspace/yet-another-speed-dial",
+  "firefoxLink": "https://addons.mozilla.org/firefox/addon/yet-another-speed-dial/",
+  "chromeLink": "https://chromewebstore.google.com/detail/yet-another-speed-dial/imohnlganmafcmidafklgkgfgaagiohn",
+  "websiteLink": "https://yetanotherspeeddial.com/",
+  "stars": 307
+}
