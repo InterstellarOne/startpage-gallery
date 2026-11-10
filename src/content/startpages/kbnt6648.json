@@ -16,5 +16,7 @@
   ],
   "dateAdded": 1794284472388,
   "proprietary": false,
-  "websiteLink": "https://kbnt.ghomistty.com/"
+  "websiteLink": "https://kbnt.ghomistty.com/",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/keyboard-newtab/",
+  "gitLink": "https://git.ghomistty.com/misty/kbnt"
 }
