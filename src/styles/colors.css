@@ -31,13 +31,13 @@
     --text-secondary: #e2e3ec;
     --text-tertiary: #a2a2a2;
     
-    --bg-header: rgb(74, 74, 78);
+    --bg-header: #333336;
     --bg-header-button: #28282a;
 
     --bg-search-button: #28282a;
     --border-search-button:#4e4f53;
 
-    --tag: #49494e;
+    --tag: #494b4e;
     --bg-search: #3c3d40;
     --border-search: #5d5e63;
     --search-icon: #cacaca;
