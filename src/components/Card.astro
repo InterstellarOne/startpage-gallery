@@ -228,13 +228,13 @@ const {
         </div>
         <h4 class="date-updated quicksand-regular">
           Updated: {
-            dateUpdated
+            dateUpdated != 0
               ? new Date(dateUpdated).toLocaleDateString("en-CA", {
                   month: "long",
                   day: "numeric",
                   year: "numeric",
                 })
-              : "unknown"
+              : "Unknown"
           }
         </h4>
       </div>

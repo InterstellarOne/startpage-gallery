@@ -16,7 +16,7 @@ const startpages = defineCollection({
             websiteLink: z.url().optional(),
 			edgeLink: z.url().optional(),
 			safariLink: z.url().optional(),
-			dateUpdated: z.number().nullable(),
+			dateUpdated: z.number(),
             image: z.object({src: z.string()}),
             tags: z.array(z.string()),
 			additionalTags: z.array(z.string()).optional(),

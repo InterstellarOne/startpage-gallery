@@ -332,7 +332,7 @@ if (gitLink?.includes("github.com") || gitLink?.includes("codeberg.org") || gitL
     console.error("Unidentified source hostname");
 } else {
     console.error("No parsable links in submission", title)
-    dateUpdated = null;
+    dateUpdated = 0;
 }
 
 // Assemble JSON
