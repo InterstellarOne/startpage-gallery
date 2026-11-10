@@ -1,0 +1,22 @@
+{
+  "title": "Motiontabs",
+  "description": "Every new tab opens with a calm, beautiful motion wallpaper, plus the few things you actually need: search, time, weather and today's focus. No clutter, nothing to distract you.",
+  "image": {
+    "src": "screenshots/motiontabs8890.png"
+  },
+  "tags": [
+    "Video Wallpaper",
+    "Search",
+    "Clock",
+    "Liquid Glass",
+    "Links",
+    "Bookmarks",
+    "Weather",
+    "To-Do List"
+  ],
+  "dateAdded": 1794281855079,
+  "proprietary": true,
+  "dateUpdated": 1793750400000,
+  "chromeLink": "https://chromewebstore.google.com/detail/motiontabs-best-live-wall/fenjmhlfpbhnbgbdehnnomhnhafedbmp",
+  "websiteLink": "https://motiontabs.com/"
+}
