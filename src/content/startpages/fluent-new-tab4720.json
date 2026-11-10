@@ -1,0 +1,25 @@
+{
+  "title": "Fluent New Tab",
+  "description": "Transform your default new tab into a clean, customizable dashboard inspired by Microsoft's Fluent Design System. Fluent New Tab is private by design, requires no account, and keeps all data stored locally on your device.",
+  "image": {
+    "src": "screenshots/fluent-new-tab4720.png"
+  },
+  "tags": [
+    "Search",
+    "Wallpaper",
+    "Links",
+    "Clock",
+    "App Launcher",
+    "Weather",
+    "Wallpaper",
+    "Folders"
+  ],
+  "dateAdded": 1794284946779,
+  "proprietary": false,
+  "dateUpdated": 1794250051000,
+  "gitLink": "https://github.com/snw-mint/fluent-new-tab",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/fluent-new-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/fluent-new-tab/pbbiecccbghiolgifmlichmgpoclijfa",
+  "websiteLink": "https://snw-mint.github.io/fluent-new-tab/",
+  "stars": 65
+}
