@@ -1,0 +1,20 @@
+{
+  "title": "KBNT",
+  "description": "Minimal and privacy-focused new tab page (as the name KBNT suggests, KeyBoard NewTab).",
+  "image": {
+    "src": "screenshots/kbnt6648.png"
+  },
+  "tags": [
+    "Minimal",
+    "Customizable",
+    "Themes",
+    "Search",
+    "Clock",
+    "Weather",
+    "Bangs",
+    "Links"
+  ],
+  "dateAdded": 1794284472388,
+  "proprietary": false,
+  "websiteLink": "https://kbnt.ghomistty.com/"
+}
