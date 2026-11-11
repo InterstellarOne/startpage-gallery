@@ -87,7 +87,10 @@ body:
   - type: input
     id: keywords
     attributes:
-      label: "keywords"
+      label: "Keywords"
+  - type: markdown
+    attributes:
+      value: "## License"
   - type: checkboxes
     id: opensource
     attributes:
