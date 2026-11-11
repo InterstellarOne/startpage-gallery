@@ -19,7 +19,7 @@ const startpages = defineCollection({
 			dateUpdated: z.number(),
             image: z.object({src: z.string()}),
             tags: z.array(z.string()),
-			additionalTags: z.string().optional(),
+			keywords: z.string().optional(),
             dateAdded: z.number(),
             proprietary: z.boolean().optional(),
 			stars: z.number().optional(),
