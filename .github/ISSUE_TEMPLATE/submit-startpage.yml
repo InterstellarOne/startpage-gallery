@@ -80,11 +80,14 @@ body:
       label: "8"
   - type: markdown
     attributes:
-      value: Add additional tags below, separated by spaces. These will not appear on the cards, but they will still be used for searches. Tags that contain spaces will still work.
-  - type: input
-    id: additionaltags
+      value: "## Keywords"
+  - type: markdown
     attributes:
-      label: "Additional Tags"
+      value: Enter keywords below, separated by spaces. These will not appear on the cards, and will only be used for searches. 
+  - type: input
+    id: keywords
+    attributes:
+      label: "keywords"
   - type: checkboxes
     id: opensource
     attributes:

@@ -25,7 +25,7 @@ interface Props {
     src: string;
   };
   tags: string[];
-  additionalTags?: string;
+  keywords?: string;
   proprietary: boolean;
   stars: number;
 }
@@ -43,7 +43,7 @@ const {
   dateAdded,
   image,
   tags,
-  additionalTags,
+  keywords,
   proprietary,
   stars,
 } = Astro.props;
@@ -56,7 +56,7 @@ const {
   data-title={title.toLowerCase()}
   data-desc={description.toLowerCase()}
   data-tags={tags.join(" ").toLowerCase()}
-  data-additional-tags={additionalTags}
+  data-keywords={keywords}
   data-proprietary={proprietary}
   data-stars={stars}
 >

@@ -39,8 +39,8 @@ for (let i = 1; i < 9; i++) {
     }
 }
 
-// Aditional Tags
-const additionalTags = parsedData["Additional Tags"]?.toLowerCase() ?? ""
+// Keywords
+const keywords = parsedData["Keywords"]?.toLowerCase() ?? ""
 
 // Cover
 // https://flaviocopes.com/how-to-download-an-image-from-url-in-node/
@@ -343,7 +343,7 @@ const newJSONObject = {
         "src": imageFilePath
     },
     "tags": tags,
-    "additionalTags": additionalTags,
+    "keywords": keywords,
     "dateAdded": dateAdded,
     "proprietary": proprietary
 }
