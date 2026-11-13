@@ -1,0 +1,26 @@
+{
+  "title": "Renewed Tab",
+  "description": "A beautiful, powerful new tab page for your browser, with widgets, news, to-do lists, and more",
+  "image": {
+    "src": "screenshots/renewed-tab5472.png"
+  },
+  "tags": [
+    "Widgets",
+    "Rss",
+    "Modular",
+    "Customizable",
+    "Wallpaper",
+    "Links",
+    "Weather",
+    "Bookmarks"
+  ],
+  "keywords": "news webcomic search unsplash clock folders quotes",
+  "dateAdded": 1794402305306,
+  "proprietary": false,
+  "dateUpdated": 1794188387790,
+  "gitLink": "https://gitlab.com/renewedtab/renewedtab",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/renewed-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/renewed-tab/laljofodhebajcajogbolahbjdcnfgkf",
+  "websiteLink": "https://renewedtab.com",
+  "stars": 33
+}
