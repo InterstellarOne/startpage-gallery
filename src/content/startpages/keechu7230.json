@@ -1,0 +1,23 @@
+{
+  "title": "Keechu",
+  "description": "Keechu replaces your default new tab page with a beautiful, customizable productivity dashboard. Its designed to help you stay focused, organized, and efficient.",
+  "image": {
+    "src": "screenshots/keechu7230.png"
+  },
+  "tags": [
+    "To-do List",
+    "Weather",
+    "Habit Tracker",
+    "Timer",
+    "Docs",
+    "Most Visited",
+    "Pomodoro",
+    "Finance Tracker"
+  ],
+  "keywords": "clipboard",
+  "dateAdded": 1794771885999,
+  "proprietary": true,
+  "dateUpdated": 1789948800000,
+  "chromeLink": "https://chromewebstore.google.com/detail/keechu-new-tab-widgets/jamdfdmdbhmlhadpblbenigecjeljicj",
+  "websiteLink": "https://www.keechu.com/"
+}
