@@ -1,0 +1,23 @@
+{
+  "title": "New Tab by Cooldesk",
+  "description": "Turn scattered browsing into an organized productivity workspace.  CoolDesk turns the blank new tab page into a view of what you're actually working on — your saved projects, every tab you have open, and where you've just been. Choose from dozens of layouts, themes, and widgets to get your new tab page looking exactly how you want it.",
+  "image": {
+    "src": "screenshots/new-tab-by-cooldesk6125.png"
+  },
+  "tags": [
+    "Customizable",
+    "Themes",
+    "Layouts",
+    "Widgets",
+    "Links",
+    "Spotlight",
+    "Wallpaper",
+    "Custom Font"
+  ],
+  "keywords": "groups spotlight clipboard ai agent dock sidebar webview file explorer project workspaces last session clock goal pomodoro calendar world clock timezones timer stopwatch countdown date year progress search tasks to-do list scratchpad quick links habit trackersnippets weather quotes crypto currency unit converter github activity box breathing water streak counter moon phase sunrise sunset decision maker password generator color palette json formatter typing test regex tester",
+  "dateAdded": 1794773340780,
+  "proprietary": true,
+  "dateUpdated": 1794268800000,
+  "chromeLink": "https://chromewebstore.google.com/detail/new-tab-by-cooldesk/ioggffobciopdddacpclplkeodllhjko",
+  "websiteLink": "https://cool-desk.com/"
+}
