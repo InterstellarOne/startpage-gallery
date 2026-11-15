@@ -1,0 +1,23 @@
+{
+  "title": "Bookmarks But Better",
+  "description": "Bookmark manager on your new tab: your bookmarks as folder cards, with search and drag-and-drop. Free, no account.",
+  "image": {
+    "src": "screenshots/bookmarks-but-better4079.png"
+  },
+  "tags": [
+    "Bookmarks",
+    "Folders",
+    "Themes",
+    "Bookmark Search",
+    "Search"
+  ],
+  "keywords": "drag drop markdown import export",
+  "dateAdded": 1794771034052,
+  "proprietary": false,
+  "dateUpdated": 1791148805000,
+  "gitLink": "https://github.com/farhadeidi/bookmarks-but-better",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/bookmarks-but-better/",
+  "chromeLink": "https://chromewebstore.google.com/detail/bookmarks-but-better/nflojekghnganlcjncbepnnnkgakghif",
+  "websiteLink": "https://bookmarks.but-better.dev/",
+  "stars": 16
+}
