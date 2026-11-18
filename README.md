@@ -10,7 +10,7 @@ https://startpage.gallery
 
 ### Submitting a new startpage
 Visit the [Submission issue page](https://github.com/InterstellarOne/startpage-store/issues/new?template=submit-startpage.yml
-) and follow the instructions there to submit a startpage. You do not have to be affiliated with the startpage to submit it, but you must at least like the startpage. 
+) and follow the instructions there to submit a startpage. You do not have to be affiliated with the startpage to submit it.
 
 **Things to keep in mind:**
 - Make sure the image you upload is 16:10 and large enough to look decent at the scale of the card.
