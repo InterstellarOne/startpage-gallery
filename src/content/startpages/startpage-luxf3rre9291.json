@@ -1,0 +1,23 @@
+{
+  "title": "startpage (LuxF3rre)",
+  "description": "A personal browser start page built with Astro, featuring the Catppuccin color palette and JetBrains Mono Nerd Font.",
+  "image": {
+    "src": "screenshots/startpage-luxf3rre9291.png"
+  },
+  "tags": [
+    "Minimalist",
+    "Catpuccin",
+    "Links",
+    "Categories",
+    "Image",
+    "Keyboard Shortcuts",
+    "Search",
+    "Themes"
+  ],
+  "keywords": "animations astro static",
+  "dateAdded": 1795118983816,
+  "proprietary": true,
+  "dateUpdated": 1777967787000,
+  "gitLink": "https://github.com/LuxF3rre/startpage",
+  "stars": 14
+}
