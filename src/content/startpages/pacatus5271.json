@@ -1,0 +1,24 @@
+{
+  "title": "Pacatus",
+  "description": "A calm new tab with a living landscape, search, tasks, notes, a focus timer and weather, plus a little buddy that helps on every site.",
+  "image": {
+    "src": "screenshots/pacatus5271.png"
+  },
+  "tags": [
+    "Living Wallpaper",
+    "Ambient Sounds Noises",
+    "Tasks",
+    "Notes",
+    "Pomodoro",
+    "Weather",
+    "Links",
+    "Customizable"
+  ],
+  "keywords": "to-do list search assistant shorts zen focus mode clock vim keybinds command palette",
+  "dateAdded": 1795118352526,
+  "proprietary": true,
+  "dateUpdated": 1793044279000,
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/pacatus/",
+  "chromeLink": "https://chromewebstore.google.com/detail/pacatus-cozy-new-tab-to-d/mebgndlobddidfdbhgkhdaoophpamdef",
+  "websiteLink": "https://pacatus.app/"
+}
