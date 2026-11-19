@@ -1,0 +1,20 @@
+{
+  "title": "Lucid",
+  "description": "Lucid replaces your New Tab page with a simple notepad. It tells you what day it is. It uses your location to change its appearance based on daylight. And with any luck, it will help you get things done.",
+  "image": {
+    "src": "screenshots/lucid6715.png"
+  },
+  "tags": [
+    "Minimalist",
+    "Notes",
+    "Date",
+    "Scratchpad"
+  ],
+  "keywords": "_no response_",
+  "dateAdded": 1795119566551,
+  "proprietary": true,
+  "dateUpdated": 1745782672000,
+  "gitLink": "https://github.com/Lucid-Toys/chrome-lucid",
+  "chromeLink": "https://chromewebstore.google.com/detail/lucid/achogfadpkcepkepcpegehpiiioihmik",
+  "stars": 86
+}
