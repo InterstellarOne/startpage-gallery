@@ -1,0 +1,21 @@
+{
+  "title": "Protopage",
+  "description": "Protopage is your own personal page that you can access from any computer, tablet or smartphone. You can monitor news headlines from almost any web site, even obscure ones.",
+  "image": {
+    "src": "screenshots/protopage5035.png"
+  },
+  "tags": [
+    "Widgets",
+    "News",
+    "Search",
+    "Notes",
+    "Links",
+    "Wallpaper",
+    "Stocks",
+    "Clock"
+  ],
+  "dateAdded": 1795232618938,
+  "proprietary": true,
+  "websiteLink": "https://www.protopage.com/",
+  "keywords": "rss image podcasts video maps to-do list calendar google comments photo youtube weather prediction markets sports scores web page webview embed protopuppy analog stopwatch countdown timer sync"
+}
