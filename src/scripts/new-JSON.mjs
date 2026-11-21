@@ -343,7 +343,6 @@ const newJSONObject = {
         "src": imageFilePath
     },
     "tags": tags,
-    "keywords": keywords,
     "dateAdded": dateAdded,
     "proprietary": proprietary
 }
@@ -355,6 +354,7 @@ if (chromeLink) newJSONObject.chromeLink = chromeLink;
 if (websiteLink) newJSONObject.websiteLink = websiteLink;
 if (safariLink) newJSONObject.safariLink = safariLink;
 if (typeof starCount === 'number') newJSONObject.stars = starCount;
+if (keywords != "_no response_") newJSONObject.keywords = keywords;
 
 // Create file
 function createFile() {
