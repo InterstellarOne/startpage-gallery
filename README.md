@@ -3,9 +3,7 @@ A static community gallery showcasing startpages (New Tab pages) from across the
 
 https://startpage.gallery
 
-\
-![](https://raw.githubusercontent.com/InterstellarOne/startpage-gallery/refs/heads/master/public/gallery-cover.png)
-
+![Fmhy](https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/available/fmhy/cozy.svg)
 ## How to contribute
 
 ### Submitting a new startpage
