@@ -347,7 +347,7 @@ const newJSONObject = {
     "proprietary": proprietary
 }
 
-if (dateUpdated) newJSONObject.dateUpdated = dateUpdated;
+if (dateUpdated || dateUpdated == 0) newJSONObject.dateUpdated = dateUpdated;
 if (gitLink) newJSONObject.gitLink = gitLink;
 if (firefoxLink) newJSONObject.firefoxLink = firefoxLink;
 if (chromeLink) newJSONObject.chromeLink = chromeLink;
