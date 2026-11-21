@@ -1,0 +1,24 @@
+{
+  "title": "Perfect Home",
+  "description": "Replace your new-tab page and home page with your bookmarks. No ads, no speed dials, no frequently visited. Just your own, predictable grid of links.",
+  "image": {
+    "src": "screenshots/perfect-home8778.png"
+  },
+  "tags": [
+    "Bookmarks",
+    "Folders",
+    "Themes",
+    "Custom Css",
+    "Search",
+    "Minimalist",
+    "Dock"
+  ],
+  "keywords": "_no response_",
+  "dateAdded": 1795228453962,
+  "proprietary": false,
+  "dateUpdated": 1792671010000,
+  "gitLink": "https://github.com/perfect-things/perfect-home",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/perfect-home/",
+  "chromeLink": "https://chromewebstore.google.com/detail/perfect-home/hdekbnedodfockfppllkaaahaibfgcaj",
+  "stars": 134
+}
