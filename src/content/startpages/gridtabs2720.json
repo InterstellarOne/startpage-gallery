@@ -1,0 +1,20 @@
+{
+  "title": "gridtabs",
+  "description": "Turn your new tab into a clean grid of your favorite sites. Save in one click, organize by drag and drop, and place to-do, notes, weather or clock cells beside them.",
+  "image": {
+    "src": "screenshots/gridtabs2720.png"
+  },
+  "tags": [
+    "Bookmarks",
+    "Widgets",
+    "Links",
+    "Customizable",
+    "Themes"
+  ],
+  "dateAdded": 1795406975423,
+  "proprietary": true,
+  "dateUpdated": 1794441600000,
+  "chromeLink": "https://chromewebstore.google.com/detail/nhcidkofkagklopdgpffffienpjlmpjg",
+  "websiteLink": "https://gridtabs.com",
+  "keywords": "speed dial visual bookmarks grid new tab drag drop"
+}
