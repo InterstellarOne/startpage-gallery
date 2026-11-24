@@ -1,0 +1,23 @@
+{
+  "title": "Forbidden-startpage",
+  "description": "A simple startpage with a few themes to choose from.",
+  "image": {
+    "src": "screenshots/forbidden-startpage5390.png"
+  },
+  "tags": [
+    "Clock",
+    "Date",
+    "Weather",
+    "Themes",
+    "Image",
+    "Links",
+    "Categories",
+    "Image"
+  ],
+  "dateAdded": 1795560376395,
+  "proprietary": true,
+  "dateUpdated": 1684691566000,
+  "gitLink": "https://github.com/AmeerMoustafa/Forbidden-startpage",
+  "stars": 31,
+  "keywords": "static"
+}
