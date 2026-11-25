@@ -1,0 +1,24 @@
+{
+  "title": "Bento",
+  "description": "A simple, minimal startpage that is easy to configure and modify for your own use. Colours, icons and layouts are all easily customizable.",
+  "image": {
+    "src": "screenshots/bento5455.png"
+  },
+  "tags": [
+    "Static",
+    "Customizable",
+    "Links",
+    "Wallpaper",
+    "Clock",
+    "Weather",
+    "Themes",
+    "Greeting"
+  ],
+  "dateAdded": 1795569187055,
+  "proprietary": false,
+  "dateUpdated": 1745208384000,
+  "gitLink": "https://github.com/migueravila/bento/",
+  "websiteLink": "https://migueravila.github.io/bento/",
+  "stars": 2200,
+  "keywords": "date"
+}
