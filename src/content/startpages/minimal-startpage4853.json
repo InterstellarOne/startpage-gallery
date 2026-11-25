@@ -1,0 +1,23 @@
+{
+  "title": "Minimal Startpage",
+  "description": "Just another minimal startpage for browsers.",
+  "image": {
+    "src": "screenshots/minimal-startpage4853.png"
+  },
+  "tags": [
+    "Links",
+    "Search",
+    "Greeting",
+    "Minimalist",
+    "Static",
+    "Clock",
+    "Date",
+    "Weather"
+  ],
+  "dateAdded": 1795647404984,
+  "proprietary": false,
+  "dateUpdated": 1676866130000,
+  "gitLink": "https://github.com/deepjyoti30/startpage",
+  "stars": 667,
+  "keywords": "customizable search engine"
+}

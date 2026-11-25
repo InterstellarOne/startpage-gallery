@@ -1,0 +1,22 @@
+{
+  "title": "Root",
+  "description": "Root is a start-page aimed to simplicity and elegance. This project is blazing fast ⚡, as it only contains an html, css and javascript files.",
+  "image": {
+    "src": "screenshots/root2886.png"
+  },
+  "tags": [
+    "Greeting",
+    "Clock",
+    "Date",
+    "Links",
+    "Cards",
+    "Static",
+    "Minimalist"
+  ],
+  "dateAdded": 1795647632745,
+  "proprietary": false,
+  "dateUpdated": 1695165662000,
+  "gitLink": "https://github.com/imreyesjorge/root-startpage",
+  "stars": 284,
+  "keywords": "simple clean"
+}
