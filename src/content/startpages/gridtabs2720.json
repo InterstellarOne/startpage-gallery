@@ -9,12 +9,15 @@
     "Widgets",
     "Links",
     "Customizable",
-    "Themes"
+    "Themes",
+    "Weather",
+    "Workspaces"
+    "To-do List"
   ],
   "dateAdded": 1795406975423,
   "proprietary": true,
   "dateUpdated": 1794441600000,
   "chromeLink": "https://chromewebstore.google.com/detail/nhcidkofkagklopdgpffffienpjlmpjg",
   "websiteLink": "https://gridtabs.com",
-  "keywords": "speed dial visual grid new tab drag drop"
+  "keywords": "speed dial visual grid new tab drag drop notes webview web page folder world timezones pet"
 }
