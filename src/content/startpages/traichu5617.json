@@ -1,0 +1,22 @@
+{
+  "title": "_traichu",
+  "description": "A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.",
+  "image": {
+    "src": "screenshots/traichu5617.png"
+  },
+  "tags": [
+    "Links",
+    "Clock",
+    "Weather",
+    "Search",
+    "Date",
+    "Image",
+    "Static"
+  ],
+  "dateAdded": 1795568534634,
+  "proprietary": true,
+  "dateUpdated": 1687787831000,
+  "gitLink": "https://github.com/Tressley/_traichu",
+  "websiteLink": "https://tressley.github.io/_traichu/",
+  "stars": 118
+}
