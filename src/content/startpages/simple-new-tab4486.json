@@ -1,0 +1,25 @@
+{
+  "title": "Simple New Tab",
+  "description": "A minimalistic, configurable new tab page with customizable colors, custom bookmarks, random quotes, a clock, stats about new tabs, weather information, and Discord presence information.",
+  "image": {
+    "src": "screenshots/simple-new-tab4486.png"
+  },
+  "tags": [
+    "Customizable",
+    "Themes",
+    "Links",
+    "Categories",
+    "Discord Status",
+    "Weather",
+    "Notes",
+    "To-do List"
+  ],
+  "dateAdded": 1795665684613,
+  "proprietary": false,
+  "dateUpdated": 1794414148000,
+  "gitLink": "https://github.com/cubedhuang/simple-new-tab",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/minimalistic-new-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/simple-new-tab/knjgndjhindbbphlfnaagilhcjciehaf",
+  "stars": 4,
+  "keywords": "quote colors custom font tab stats clock"
+}
