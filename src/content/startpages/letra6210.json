@@ -1,0 +1,21 @@
+{
+  "title": "letra",
+  "description": "Passively learn a new language through audio and text every time you open a new tab. A simple and effective supplementary tool for language learning!",
+  "image": {
+    "src": "screenshots/letra6210.png"
+  },
+  "tags": [
+    "Language Learning",
+    "Clock",
+    "Quote",
+    "Date",
+    "Daily Word"
+  ],
+  "dateAdded": 1795667473976,
+  "proprietary": false,
+  "dateUpdated": 1702659542000,
+  "gitLink": "https://github.com/jayehernandez/letra-extension",
+  "chromeLink": "https://chromewebstore.google.com/detail/letra/cjodkkjokggcaeacdhjliobekbnnmoio",
+  "websiteLink": "https://letra.vercel.app/",
+  "stars": 363
+}
