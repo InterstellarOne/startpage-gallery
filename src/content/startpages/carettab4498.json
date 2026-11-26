@@ -1,0 +1,26 @@
+{
+  "title": "CaretTab",
+  "description": "Introducing CaretTab, your New Tab dashboard. It's not just a browser extension; it's a statement - your tab, your rules! Explore the realm of infinite customization right at your fingertips and transform the way you experience browsing.",
+  "image": {
+    "src": "screenshots/carettab4498.jpg"
+  },
+  "tags": [
+    "Customizable",
+    "Weather",
+    "Custom Font",
+    "Custom Layout",
+    "Custom Colors",
+    "Notes",
+    "Links",
+    "Clock"
+  ],
+  "dateAdded": 1795708605648,
+  "proprietary": false,
+  "dateUpdated": 1737316358000,
+  "gitLink": "https://github.com/bluecaret/carettab",
+  "chromeLink": "https://chromewebstore.google.com/detail/carettab-new-tab-dashboar/cojpndognjdcakkimaloeealehpkljna",
+  "edgeLink": "https://microsoftedge.microsoft.com/addons/detail/carettab-new-tab-dashbo/bfpmncaohmjelebfobabccfjgmeolloe",
+  "websiteLink": "https://www.bluecaret.com/carettab/",
+  "stars": 249,
+  "keywords": "analog binary date to-do list quotes search countdown loadshedding iframe webview fidget snake game shape text"
+}
