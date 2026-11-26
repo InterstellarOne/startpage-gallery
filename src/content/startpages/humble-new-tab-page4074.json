@@ -1,0 +1,25 @@
+{
+  "title": "Humble New Tab Page",
+  "description": "Redesigned new tab page featuring your bookmarks, most visited, recently closed, and weather in a custom layout with full control over appearance.",
+  "image": {
+    "src": "screenshots/humble-new-tab-page4074.png"
+  },
+  "tags": [
+    "Customizable",
+    "Bookmarks",
+    "Most Visited",
+    "Recent Bookmarks",
+    "Wallpaper",
+    "Custom Colors",
+    "Custom Font",
+    "Custom Css"
+  ],
+  "dateAdded": 1795669612257,
+  "proprietary": false,
+  "dateUpdated": 1771648084000,
+  "gitLink": "https://github.com/ibillingsley/HumbleNewTabPage",
+  "firefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/",
+  "chromeLink": "https://chromewebstore.google.com/detail/humble-new-tab-page/mfgdmpfihlmdekaclngibpjhdebndhdj",
+  "stars": 784,
+  "keywords": "recentlly closed other devices web apps"
+}
