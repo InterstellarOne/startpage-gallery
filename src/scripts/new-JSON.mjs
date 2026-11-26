@@ -353,6 +353,7 @@ if (firefoxLink) newJSONObject.firefoxLink = firefoxLink;
 if (chromeLink) newJSONObject.chromeLink = chromeLink;
 if (websiteLink) newJSONObject.websiteLink = websiteLink;
 if (safariLink) newJSONObject.safariLink = safariLink;
+if (edgeLink) newJSONObject.edgeLink = edgeLink;
 if (typeof starCount === 'number') newJSONObject.stars = starCount;
 if (keywords != "_no response_") newJSONObject.keywords = keywords;
 
