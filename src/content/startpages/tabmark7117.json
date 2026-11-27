@@ -1,0 +1,23 @@
+{
+  "title": "TabMark",
+  "description": "TabMark turns your bookmarks into a simple new tab page, making your saved bookmarks clear, tidy, and efficient, allowing you to quickly reach the websites and resources you need most. Paired with intelligent AI search, find the answers you want faster.",
+  "image": {
+    "src": "screenshots/tabmark7117.png"
+  },
+  "tags": [
+    "Bookmarks",
+    "Frequently Visited",
+    "Wallpaper",
+    "Year Progress",
+    "Greeting",
+    "Search",
+    "System Tools"
+  ],
+  "dateAdded": 1795785264586,
+  "proprietary": false,
+  "dateUpdated": 1742019212000,
+  "gitLink": "https://github.com/Alanrk/TabMark-Bookmark-New-Tab",
+  "chromeLink": "https://chromewebstore.google.com/detail/tabmark-bookmark-new-tab/jpejneelbjckppjapemgfeheifljmaib",
+  "websiteLink": "https://www.ainewtab.app/en/",
+  "stars": 297
+}
